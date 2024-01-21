@@ -3,9 +3,9 @@ from db_create_table import Database
 from db_debtor import Db_debtor
 
 # mysql >
-# mysql > create database myprojectdb character set utf8mb4 collate utf8mb4_general_ci;
-# mysql > create user 'myprojcetuser'@'localhost' identified by '12345678!';
-# mysql > GRANT ALL privileges ON myprojectdb.* TO  'myprojcetuser'@'localhost' ;
+# mysql > create database your_db character set utf8mb4 collate utf8mb4_general_ci;
+# mysql > create user 'youruser'@'localhost' identified by 'yourpw!';
+# mysql > GRANT ALL privileges ON your_db.* TO  'youruser'@'localhost' ;
 # mysql > flush privileges;
 # mysql > exit;
 
