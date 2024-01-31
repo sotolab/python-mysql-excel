@@ -4,7 +4,7 @@
     "version": "230120",
     "hostName": "localhost",
     "hostPort": 3306 ,
-    "userName": "myprojcetuser",
+    "userName": "myprojectuser",
     "passWord": "12345678!",
     "databaseName": "myprojectdb"    
 }
